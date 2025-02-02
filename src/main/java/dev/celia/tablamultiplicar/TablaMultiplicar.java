@@ -12,6 +12,4 @@ public class TablaMultiplicar {
         }
         return tabla;
     }
-
-
-}
+} // Prueba de test - cobertura de código
